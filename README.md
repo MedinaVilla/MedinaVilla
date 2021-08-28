@@ -18,7 +18,7 @@
 
 ### Mobile
 
-![React Native](https://img.shields.io/badge/-React Native-%23282C34?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
 
 <a href="https://github.com/medinavilla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinavilla&theme=radical&hide=css" />
