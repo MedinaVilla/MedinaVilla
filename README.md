@@ -33,7 +33,7 @@ I'm **Jesus Medina**, a **Software Engineering student** and I´m a **Frontend D
 ![React Native](https://img.shields.io/badge/-React_Native-%23282C34?style=flat-square&logo=react)
 
 <a href="https://github.com/medinavilla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinavilla&theme=radical&hide=css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinavilla&theme=radical&hide=java" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=medinavilla&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
