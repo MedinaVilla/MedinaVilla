@@ -13,12 +13,12 @@
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Next](https://img.shields.io/badge/-Bootstrap-23282C34?style=flat-square)
+![Next](https://img.shields.io/badge/-NextJS-black?style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ### Mobile
 
-![React native](https://img.shields.io/badge/-React-1d1d1d?style=flat-square&logo=react)
+![React native](https://img.shields.io/badge/-React%20%Native-black?style=flat-square&logo=react)
 
 <a href="https://github.com/medinavilla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinavilla&theme=radical&hide=css" />
