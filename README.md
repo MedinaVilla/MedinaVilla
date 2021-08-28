@@ -19,7 +19,7 @@ I'm **Jesus Medina**, a **Software Engineering student** and I´m a **Frontend D
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Webpack](https://img.shields.io/badge/-Webpack-%23282C34?style=flat-square&logo=webpack&logoColor=black)
+![Webpack](https://img.shields.io/badge/-Webpack-%23282C34?style=flat-square&logo=webpack&logoColor=blue)
 
 ### Frameworks
 
