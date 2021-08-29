@@ -1,14 +1,12 @@
 ### Hi there, I´m Jesús. 👋
 
-I'm **Jesus Medina**, a **Software Engineering student** and I´m a **Frontend Developer**. Don´t be shy, come in 
+I'm **Jesús Medina**, a **Software Engineering student** and I´m a **Full stack JavaScript developer**. Don´t be shy, come in 
 
 **About Me!**
 
 - 😃 I am an enthusiastic person who always seeks to be at the forefront of software technologies.
-- 🏄🏻 In my spare time, I like to play the guitar, draw and sing.
-- 🤔 My interests are Web Development, Design, Optimization Lighthouse, SSR
-
-
+- 🏄🏻 In my spare time, I like to play the guitar, dance and sing(try).
+- 🤔 My interests are Web Development, Mobile App development, Web Design, Optimization Google Lighthouse, SSR
 
 
 **Languages and Tools:**  
