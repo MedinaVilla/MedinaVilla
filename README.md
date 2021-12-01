@@ -1,6 +1,6 @@
 ### Hi there, I´m Jesús. 👋
 
-I'm **Jesús Medina**, a **Software Engineering student** and I´m a **Full stack JavaScript developer**. Don´t be shy, come in 
+I'm **Jesús Medina**, a **Software Engineering student** and I´m a **Full stack JavaScript developer**. Co-founder of @domend Don´t be shy, come in 
 
 **About Me!**
 
