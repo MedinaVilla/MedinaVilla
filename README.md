@@ -1,5 +1,6 @@
 ### Hi there, I´m Jesús. 👋
-![](https://komarev.com/ghpvc/?username=MedinaVilla&color=green)
+###  ![](https://komarev.com/ghpvc/?username=MedinaVilla&color=green)
+
 I'm **Jesús Medina**, a **Software Engineering student** and I´m a **Full stack JavaScript developer**. Co-founder of @domend Don´t be shy, come in 
 
 **About Me!**
